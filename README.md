@@ -4,7 +4,7 @@ The Monty bytecode interpreter reads a file containing a series of bytecodes and
 
 Here is an example of a simple Monty bytecode program that pushes the number 123 onto the top of the stack and then prints it:
 
-push 123
-pall
+   push 123
+   pall
 
 The Monty bytecode interpreter is designed to be simple and easy to understand, making it a useful tool for learning about the basics of bytecode interpretation and stack/queue algorithms.
